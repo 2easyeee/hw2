@@ -1,4 +1,4 @@
-# open
+# hw2
 
 ## top
 top 명령어는 **CPU와 Memory 등의 상태를**를 보여주는 명령어.
