@@ -1,6 +1,5 @@
 # open
 
----
 ## top
 top 명령어는 **CPU와 Memory 등의 상태를**를 보여주는 명령어.
 
@@ -92,6 +91,7 @@ kill 명령어는 **프로세스에 signal**을 보내는 명령어다. 일반�
 
 ## [kill 사용법]
 $ kill [옵션] [PID]
+<img width="324" alt="스크린샷 2022-06-05 오후 11 28 22" src="https://user-images.githubusercontent.com/103654549/172056034-3908e7ca-08df-4430-9e39-8d5ff753fcae.png">
 
 ## [kill 옵션]
 
